@@ -1,5 +1,9 @@
 ## Ultimate guide to building on [Aptos](https://aptosfoundation.org/)
 
+- Youtube
+  - [Intro to building on Aptos](https://www.youtube.com/watch?v=-UkbHdeSImc)
+  - [Develop from GitHub codespace](https://www.youtube.com/watch?v=RJnlSwyNI8Q)
+
 - One liner pitch on why Aptos
   - Fast, cheap, stable. That's all you need to know as an app developer
   - Aptos is like Solana, but Aptos Move is easier to program than SVM contracts, and contract interaction is simpler
@@ -26,6 +30,10 @@
 
 ## [Aptos](https://aptosfoundation.org/)开发指南
 
+- 视频
+  - [Aptos开发101](https://www.youtube.com/watch?v=uAfK1Lpr33M)
+  - [用GitHub codespace远程开发](https://www.youtube.com/watch?v=kAM0zH6N6pc)
+
 - 为什么选择 Aptos
   - 快，便宜，稳定，作为应用开发者知道这三点就够了
   - Aptos 就像 Solana，但是 Aptos 版本的 Move 比 SVM 合约更好写，而且链下链上调用更简单
@@ -46,7 +54,6 @@
     - 这个模版选择更多，有纯基础模版，有 NFT+launchpad 模版，有 FT+launchpad 模版
     - 基于 npx，可以直接使用，不需要下载
     - 大家可以把这个模版当成工具箱，从里面拿自己需要的模块，比如怎么操作 NFT，怎么操作 FT，怎么操作 launchpad 等等
-- Youtube 视频讲解：https://www.youtube.com/watch?v=uAfK1Lpr33M
 - Aptos learn: https://learn.aptoslabs.com/en
   - Aptos 的高层概述和关键概念，比如 object（Aptos 版本的 PDA 或者合约账户），events，resources 等等
   - 详细解释 create-aptos-dapp 里面的模版的完整教程
