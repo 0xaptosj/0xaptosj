@@ -1,4 +1,4 @@
-## Ultimate guide to building on [Aptos](https://aptosfoundation.org/)
+## Ultimate guide to build on [Aptos](https://aptosfoundation.org/)
 
 - Youtube
   - [Intro to building on Aptos](https://www.youtube.com/watch?v=-UkbHdeSImc)
