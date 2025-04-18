@@ -18,9 +18,9 @@
     - This template is more opinionated, it's the one I use personally, it has
       - Contract with unit test and integration test
       - Next.js frontend, with ABI type safety, server action demoing gasless transactions, demo of reading from the chain and indexer DB, and writing to the chain
-      - Indexer in Rust, with complete guide on deployment
+      - Indexer in both Rust and TypeScript, with a complete guide on deployment
       - Node.js scripts for testing
-    - To get started, just click use as a template
+    - To get started, clone it or fork it or use it as a template
   - Create-Aptos-Dapp：https://github.com/aptos-labs/create-aptos-dapp/
     - This template has more choices, there are basic templates, NFT+launchpad templates, FT+launchpad templates
     - Based on npx, you can use it directly without downloading
@@ -52,7 +52,7 @@
     - 这个模版类似全家桶，也是我自己用的模版
       - 合约有单元测试和集成测试
       - Next.js 前端，有 ABI 类型安全，展示了 server action 里做无 gas 交易，展示了如何从链上和 indexer DB 读取数据，以及如何写入链上
-      - Rust 编写的 indexer，有完整的部署指南
+      - Rust 和 TypeScript 编写的索引器，有完整的部署指南
       - Node.js 脚本用于测试
     - 直接在 github 上 fork，然后 clone 到本地，修改即可
   - Create-Aptos-Dapp：https://github.com/aptos-labs/create-aptos-dapp/
