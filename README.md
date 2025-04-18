@@ -2,6 +2,7 @@
 
 - Youtube
   - [Intro to building on Aptos](https://www.youtube.com/watch?v=-UkbHdeSImc)
+  - [Building custom indexer](https://www.youtube.com/watch?v=RqBWIdmxpPk)
   - [Develop from GitHub codespace](https://www.youtube.com/watch?v=RJnlSwyNI8Q)
 
 - One liner pitch on why Aptos
@@ -27,11 +28,15 @@
 - Aptos learn: https://learn.aptoslabs.com/en
   - High level overview of Aptos and key concepts like object (Aptos equivalent of PDA or contract account), events, resources, etc
   - End to end tutorial with detailed explanation on templates in create-aptos-dapp
+- Move by examples: https://github.com/aptos-labs/move-by-examples
+  - A collection of move examples
+  - Side-by-side comparison with SVM and EVM implementations
 
 ## [Aptos](https://aptosfoundation.org/)开发指南
 
 - 视频
   - [Aptos开发101](https://www.youtube.com/watch?v=uAfK1Lpr33M)
+  - [自定义索引器](https://www.youtube.com/watch?v=TtdeEnNj0jw)
   - [用GitHub codespace远程开发](https://www.youtube.com/watch?v=kAM0zH6N6pc)
 
 - 为什么选择 Aptos
@@ -57,3 +62,6 @@
 - Aptos learn: https://learn.aptoslabs.com/en
   - Aptos 的高层概述和关键概念，比如 object（Aptos 版本的 PDA 或者合约账户），events，resources 等等
   - 详细解释 create-aptos-dapp 里面的模版的完整教程
+- Move by examples: https://github.com/aptos-labs/move-by-examples
+  - 一系列Move合约模版
+  - 同样的应用有SVM和EVM实现，方便大家理解和对比Aptos
