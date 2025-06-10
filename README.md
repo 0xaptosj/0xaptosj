@@ -4,6 +4,7 @@
   - [Intro to building on Aptos](https://www.youtube.com/watch?v=-UkbHdeSImc)
   - [Building custom indexer](https://www.youtube.com/watch?v=RqBWIdmxpPk)
   - [Develop from GitHub codespace](https://www.youtube.com/watch?v=RJnlSwyNI8Q)
+  - [Dispatchable fungible asset aka transfer hook, with cross contract call](https://www.youtube.com/watch?v=sIS7AnL9DL4&t=1s)
 
 - One liner pitch on why Aptos
   - Fast, cheap, stable. That's all you need to know as an app developer
@@ -38,6 +39,7 @@
   - [Aptos开发101](https://www.youtube.com/watch?v=uAfK1Lpr33M)
   - [自定义索引器](https://www.youtube.com/watch?v=TtdeEnNj0jw)
   - [用GitHub codespace远程开发](https://www.youtube.com/watch?v=kAM0zH6N6pc)
+  - [可编程代币 + 怎么在合约里调别的合约](https://www.youtube.com/watch?v=NKOVDmKXuVM&t=2s)
 
 - 为什么选择 Aptos
   - 快，便宜，稳定，作为应用开发者知道这三点就够了
